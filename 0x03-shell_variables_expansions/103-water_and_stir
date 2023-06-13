@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(( WATER#water + STIR#stir ))#bestchol"
+printf "%s\n" "$(( WATER#water + STIR#stir ))#bestchol"
